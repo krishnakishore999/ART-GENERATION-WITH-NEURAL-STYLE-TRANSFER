@@ -4,4 +4,4 @@
 * Generated novel artistic images using the algorithm .
 * a model in which the optimization algorithm updates the pixel values rather than the neural network's parameters .
 
-*Flow_Chart : Loading_Packages --> Transfer Learning --> Computing Content Cost --> Computing Style Cost -->Optimization -->Training -->Conclusion
+* Flow_Chart : Loading_Packages --> Transfer Learning --> Computing Content Cost --> Computing Style Cost -->Optimization -->Training -->Conclusion
